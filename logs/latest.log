@@ -1,207 +1,457 @@
-[21:18:29] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[21:18:29] [Server thread/INFO]: Loading properties
-[21:18:30] [Server thread/INFO]: Default game type: SURVIVAL
-[21:18:30] [Server thread/INFO]: Generating keypair
-[21:18:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:18:30] [Server thread/INFO]: Using default channel type
-[21:18:32] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[21:18:32] [Server thread/INFO]: Preparing level "world"
-[21:18:32] [Server thread/INFO]: Found new data pack file/bukkit, loading it automatically
-[21:18:32] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
-[21:18:32] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[21:19:03] [Server thread/INFO]: Loaded 6 recipes
-[21:19:11] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[21:19:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:19:12] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:19:12] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[21:19:13] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:19:13] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[21:19:14] [Server-Worker-1/INFO]: Preparing spawn area: 1%
-[21:19:14] [Server-Worker-2/INFO]: Preparing spawn area: 1%
-[21:19:15] [Server-Worker-1/INFO]: Preparing spawn area: 3%
-[21:19:15] [Server-Worker-1/INFO]: Preparing spawn area: 3%
-[21:19:16] [Server-Worker-3/INFO]: Preparing spawn area: 3%
-[21:19:16] [Server-Worker-1/INFO]: Preparing spawn area: 5%
-[21:19:17] [Server-Worker-1/INFO]: Preparing spawn area: 5%
-[21:19:17] [Server-Worker-1/INFO]: Preparing spawn area: 5%
-[21:19:18] [Server-Worker-1/INFO]: Preparing spawn area: 8%
-[21:19:18] [Server-Worker-2/INFO]: Preparing spawn area: 8%
-[21:19:19] [Server-Worker-1/INFO]: Preparing spawn area: 9%
-[21:19:19] [Server-Worker-2/INFO]: Preparing spawn area: 10%
-[21:19:20] [Server-Worker-3/INFO]: Preparing spawn area: 11%
-[21:19:20] [Server-Worker-1/INFO]: Preparing spawn area: 11%
-[21:19:21] [Server-Worker-1/INFO]: Preparing spawn area: 12%
-[21:19:21] [Server-Worker-3/INFO]: Preparing spawn area: 13%
-[21:19:22] [Server-Worker-1/INFO]: Preparing spawn area: 13%
-[21:19:22] [Server-Worker-2/INFO]: Preparing spawn area: 14%
-[21:19:23] [Server-Worker-3/INFO]: Preparing spawn area: 15%
-[21:19:23] [Server-Worker-2/INFO]: Preparing spawn area: 15%
-[21:19:24] [Server-Worker-3/INFO]: Preparing spawn area: 15%
-[21:19:24] [Server-Worker-3/INFO]: Preparing spawn area: 15%
-[21:19:25] [Server-Worker-3/INFO]: Preparing spawn area: 17%
-[21:19:25] [Server-Worker-2/INFO]: Preparing spawn area: 17%
-[21:19:26] [Server-Worker-1/INFO]: Preparing spawn area: 18%
-[21:19:26] [Server-Worker-1/INFO]: Preparing spawn area: 18%
-[21:19:27] [Server-Worker-2/INFO]: Preparing spawn area: 18%
-[21:19:27] [Server-Worker-1/INFO]: Preparing spawn area: 18%
-[21:19:28] [Server-Worker-1/INFO]: Preparing spawn area: 18%
-[21:19:28] [Server-Worker-1/INFO]: Preparing spawn area: 18%
-[21:19:29] [Server-Worker-1/INFO]: Preparing spawn area: 23%
-[21:19:29] [Server-Worker-1/INFO]: Preparing spawn area: 23%
-[21:19:30] [Server-Worker-2/INFO]: Preparing spawn area: 24%
-[21:19:30] [Server-Worker-3/INFO]: Preparing spawn area: 25%
-[21:19:31] [Server-Worker-1/INFO]: Preparing spawn area: 25%
-[21:19:31] [Server-Worker-3/INFO]: Preparing spawn area: 26%
-[21:19:32] [Server-Worker-2/INFO]: Preparing spawn area: 27%
-[21:19:32] [Server-Worker-2/INFO]: Preparing spawn area: 28%
-[21:19:33] [Server-Worker-2/INFO]: Preparing spawn area: 29%
-[21:19:33] [Server-Worker-3/INFO]: Preparing spawn area: 29%
-[21:19:34] [Server-Worker-2/INFO]: Preparing spawn area: 29%
-[21:19:34] [Server-Worker-2/INFO]: Preparing spawn area: 29%
-[21:19:35] [Server-Worker-2/INFO]: Preparing spawn area: 29%
-[21:19:35] [Server-Worker-1/INFO]: Preparing spawn area: 33%
-[21:19:36] [Server-Worker-1/INFO]: Preparing spawn area: 34%
-[21:19:36] [Server-Worker-2/INFO]: Preparing spawn area: 34%
-[21:19:37] [Server-Worker-3/INFO]: Preparing spawn area: 35%
-[21:19:37] [Server-Worker-1/INFO]: Preparing spawn area: 36%
-[21:19:38] [Server-Worker-1/INFO]: Preparing spawn area: 37%
-[21:19:38] [Server-Worker-2/INFO]: Preparing spawn area: 39%
-[21:19:39] [Server-Worker-1/INFO]: Preparing spawn area: 40%
-[21:19:39] [Server-Worker-2/INFO]: Preparing spawn area: 41%
-[21:19:40] [Server-Worker-3/INFO]: Preparing spawn area: 41%
-[21:19:41] [Server-Worker-1/INFO]: Preparing spawn area: 42%
-[21:19:41] [Server-Worker-2/INFO]: Preparing spawn area: 43%
-[21:19:42] [Server-Worker-2/INFO]: Preparing spawn area: 44%
-[21:19:42] [Server-Worker-2/INFO]: Preparing spawn area: 44%
-[21:19:42] [Server-Worker-1/INFO]: Preparing spawn area: 45%
-[21:19:43] [Server-Worker-2/INFO]: Preparing spawn area: 46%
-[21:19:43] [Server-Worker-1/INFO]: Preparing spawn area: 47%
-[21:19:44] [Server-Worker-2/INFO]: Preparing spawn area: 48%
-[21:19:44] [Server-Worker-3/INFO]: Preparing spawn area: 48%
-[21:19:45] [Server-Worker-2/INFO]: Preparing spawn area: 49%
-[21:19:45] [Server-Worker-1/INFO]: Preparing spawn area: 51%
-[21:19:46] [Server-Worker-3/INFO]: Preparing spawn area: 52%
-[21:19:47] [Server-Worker-3/INFO]: Preparing spawn area: 53%
-[21:19:47] [Server-Worker-1/INFO]: Preparing spawn area: 54%
-[21:19:48] [Server-Worker-1/INFO]: Preparing spawn area: 55%
-[21:19:48] [Server-Worker-2/INFO]: Preparing spawn area: 55%
-[21:19:48] [Server-Worker-2/INFO]: Preparing spawn area: 56%
-[21:19:49] [Server-Worker-1/INFO]: Preparing spawn area: 57%
-[21:19:49] [Server-Worker-1/INFO]: Preparing spawn area: 58%
-[21:19:50] [Server-Worker-1/INFO]: Preparing spawn area: 59%
-[21:19:50] [Server-Worker-1/INFO]: Preparing spawn area: 59%
-[21:19:51] [Server-Worker-3/INFO]: Preparing spawn area: 61%
-[21:19:51] [Server-Worker-3/INFO]: Preparing spawn area: 62%
-[21:19:52] [Server-Worker-3/INFO]: Preparing spawn area: 63%
-[21:19:52] [Server-Worker-2/INFO]: Preparing spawn area: 65%
-[21:19:53] [Server-Worker-2/INFO]: Preparing spawn area: 65%
-[21:19:54] [Server-Worker-1/INFO]: Preparing spawn area: 66%
-[21:19:54] [Server-Worker-1/INFO]: Preparing spawn area: 66%
-[21:19:54] [Server-Worker-1/INFO]: Preparing spawn area: 68%
-[21:19:55] [Server-Worker-1/INFO]: Preparing spawn area: 70%
-[21:19:56] [Server-Worker-2/INFO]: Preparing spawn area: 71%
-[21:19:56] [Server-Worker-2/INFO]: Preparing spawn area: 72%
-[21:19:57] [Server-Worker-2/INFO]: Preparing spawn area: 73%
-[21:19:57] [Server-Worker-2/INFO]: Preparing spawn area: 74%
-[21:19:57] [Server-Worker-1/INFO]: Preparing spawn area: 74%
-[21:19:58] [Server-Worker-1/INFO]: Preparing spawn area: 75%
-[21:19:58] [Server-Worker-3/INFO]: Preparing spawn area: 77%
-[21:19:59] [Server-Worker-1/INFO]: Preparing spawn area: 78%
-[21:19:59] [Server-Worker-1/INFO]: Preparing spawn area: 80%
-[21:20:00] [Server-Worker-3/INFO]: Preparing spawn area: 81%
-[21:20:00] [Server-Worker-1/INFO]: Preparing spawn area: 82%
-[21:20:02] [Server-Worker-1/INFO]: Preparing spawn area: 82%
-[21:20:02] [Server-Worker-3/INFO]: Preparing spawn area: 82%
-[21:20:03] [Server-Worker-1/INFO]: Preparing spawn area: 85%
-[21:20:03] [Server-Worker-1/INFO]: Preparing spawn area: 85%
-[21:20:03] [Server-Worker-3/INFO]: Preparing spawn area: 88%
-[21:20:03] [Server-Worker-1/INFO]: Preparing spawn area: 88%
-[21:20:04] [Server-Worker-3/INFO]: Preparing spawn area: 89%
-[21:20:05] [Server-Worker-3/INFO]: Preparing spawn area: 90%
-[21:20:05] [Server-Worker-3/INFO]: Preparing spawn area: 90%
-[21:20:06] [Server-Worker-1/INFO]: Preparing spawn area: 92%
-[21:20:06] [Server-Worker-2/INFO]: Preparing spawn area: 93%
-[21:20:06] [Server-Worker-3/INFO]: Preparing spawn area: 95%
-[21:20:07] [Server-Worker-1/INFO]: Preparing spawn area: 96%
-[21:20:08] [Server-Worker-3/INFO]: Preparing spawn area: 97%
-[21:20:08] [Server-Worker-3/INFO]: Preparing spawn area: 98%
-[21:20:09] [Server-Worker-1/INFO]: Preparing spawn area: 99%
-[21:20:09] [Server thread/INFO]: Time elapsed: 57297 ms
-[21:20:09] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[21:20:09] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[21:20:09] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[21:20:10] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[21:20:10] [Server-Worker-2/INFO]: Preparing spawn area: 1%
-[21:20:11] [Server-Worker-2/INFO]: Preparing spawn area: 5%
-[21:20:11] [Server-Worker-3/INFO]: Preparing spawn area: 8%
-[21:20:12] [Server-Worker-3/INFO]: Preparing spawn area: 10%
-[21:20:12] [Server-Worker-3/INFO]: Preparing spawn area: 12%
-[21:20:13] [Server-Worker-1/INFO]: Preparing spawn area: 16%
-[21:20:13] [Server-Worker-1/INFO]: Preparing spawn area: 18%
-[21:20:14] [Server-Worker-3/INFO]: Preparing spawn area: 20%
-[21:20:14] [Server-Worker-3/INFO]: Preparing spawn area: 22%
-[21:20:15] [Server-Worker-1/INFO]: Preparing spawn area: 27%
-[21:20:15] [Server-Worker-3/INFO]: Preparing spawn area: 29%
-[21:20:16] [Server-Worker-3/INFO]: Preparing spawn area: 32%
-[21:20:16] [Server-Worker-3/INFO]: Preparing spawn area: 32%
-[21:20:17] [Server-Worker-1/INFO]: Preparing spawn area: 37%
-[21:20:17] [Server-Worker-3/INFO]: Preparing spawn area: 41%
-[21:20:18] [Server-Worker-2/INFO]: Preparing spawn area: 42%
-[21:20:18] [Server-Worker-2/INFO]: Preparing spawn area: 47%
-[21:20:19] [Server-Worker-2/INFO]: Preparing spawn area: 49%
-[21:20:19] [Server-Worker-3/INFO]: Preparing spawn area: 50%
-[21:20:20] [Server-Worker-2/INFO]: Preparing spawn area: 53%
-[21:20:20] [Server-Worker-3/INFO]: Preparing spawn area: 54%
-[21:20:21] [Server-Worker-2/INFO]: Preparing spawn area: 54%
-[21:20:21] [Server-Worker-2/INFO]: Preparing spawn area: 59%
-[21:20:22] [Server-Worker-3/INFO]: Preparing spawn area: 59%
-[21:20:22] [Server-Worker-1/INFO]: Preparing spawn area: 66%
-[21:20:23] [Server-Worker-2/INFO]: Preparing spawn area: 67%
-[21:20:23] [Server-Worker-3/INFO]: Preparing spawn area: 71%
-[21:20:24] [Server-Worker-2/INFO]: Preparing spawn area: 74%
-[21:20:24] [Server-Worker-3/INFO]: Preparing spawn area: 77%
-[21:20:25] [Server-Worker-1/INFO]: Preparing spawn area: 80%
-[21:20:25] [Server-Worker-1/INFO]: Preparing spawn area: 82%
-[21:20:26] [Server-Worker-3/INFO]: Preparing spawn area: 87%
-[21:20:26] [Server-Worker-1/INFO]: Preparing spawn area: 91%
-[21:20:27] [Server-Worker-1/INFO]: Preparing spawn area: 95%
-[21:20:27] [Server-Worker-1/INFO]: Preparing spawn area: 95%
-[21:20:28] [Server thread/INFO]: Time elapsed: 18928 ms
-[21:20:28] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[21:20:28] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[21:20:28] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[21:20:29] [Server-Worker-1/INFO]: Preparing spawn area: 7%
-[21:20:29] [Server-Worker-2/INFO]: Preparing spawn area: 17%
-[21:20:30] [Server-Worker-2/INFO]: Preparing spawn area: 31%
-[21:20:30] [Server-Worker-2/INFO]: Preparing spawn area: 44%
-[21:20:31] [Server-Worker-1/INFO]: Preparing spawn area: 59%
-[21:20:31] [Server-Worker-2/INFO]: Preparing spawn area: 75%
-[21:20:32] [Server-Worker-2/INFO]: Preparing spawn area: 87%
-[21:20:32] [Server thread/INFO]: Time elapsed: 4340 ms
-[21:20:32] [Server thread/INFO]: Done (120.103s)! For help, type "help"
-[21:21:47] [User Authenticator #1/INFO]: UUID of player BRIKEUH is 672c2621-eb8b-419b-a43c-6e178313a19a
-[21:21:47] [Server thread/INFO]: BRIKEUH[/108.185.7.252:54468] logged in with entity id 301 at ([world]136.5, 71.0, -190.5)
-[21:22:07] [Server thread/INFO]: BRIKEUH lost connection: Disconnected
-[21:22:07] [Server thread/INFO]: BRIKEUH left the game
-[21:25:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5538ms or 110 ticks behind
-[21:27:53] [User Authenticator #2/INFO]: UUID of player DrMonkeyifyed is 8cbd3a4b-1df6-440a-8d5a-3632c1643299
-[21:27:53] [Server thread/INFO]: DrMonkeyifyed[/47.145.113.40:59850] logged in with entity id 435 at ([world]137.5, 71.0, -189.5)
-[21:28:02] [Netty Server IO #5/INFO]: <DrMonkeyifyed> hi how are ya[m
-[21:28:10] [Netty Server IO #5/INFO]: <DrMonkeyifyed> i know you can read this[m
-[21:28:28] [Server thread/INFO]: DrMonkeyifyed issued server command: /help
-[21:29:11] [Server thread/INFO]: Unknown command. Type "help" for help.[m
-[21:29:14] [Server thread/INFO]: Stopping the server
-[21:29:14] [Server thread/INFO]: Stopping server
-[21:29:14] [Server thread/INFO]: Saving players
-[21:29:14] [Server thread/INFO]: DrMonkeyifyed lost connection: Server closed
-[21:29:14] [Server thread/INFO]: DrMonkeyifyed left the game
-[21:29:14] [Server thread/INFO]: Saving worlds
-[21:29:14] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:29:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:29:15] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[21:29:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:29:15] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[21:29:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:29:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:29:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:29:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:52:01] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:52:01] [Server thread/INFO]: Loading properties
+[21:52:01] [Server thread/INFO]: Default game type: SURVIVAL
+[21:52:01] [Server thread/INFO]: Generating keypair
+[21:52:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:52:01] [Server thread/INFO]: Using default channel type
+[21:52:02] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[21:52:05] [Server thread/WARN]: Plugin SetHomes v1.2.5 does not specify an api-version.
+[21:52:06] [Server thread/WARN]: Plugin mcMMO v1.5.00-b3547 does not specify an api-version.
+[21:52:06] [Server thread/INFO]: [SetHomes] Loading SetHomes v1.2.5
+[21:52:06] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[21:52:06] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@c91cb2]
+[21:52:06] [Server thread/INFO]: [Timber] Loading Timber v1.0.7
+[21:52:06] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[21:52:06] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.36
+[21:52:06] [Server thread/INFO]: [AdvancedAchievements] Loading AdvancedAchievements v5.15.1
+[21:52:06] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[21:52:06] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:52:06] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[21:52:07] [Server thread/WARN]: [WorldEdit] ====================================================
+[21:52:07] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[21:52:07] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[21:52:07] [Server thread/WARN]: [WorldEdit]   
+[21:52:07] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[21:52:07] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[21:52:07] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[21:52:07] [Server thread/WARN]: [WorldEdit]   
+[21:52:07] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[21:52:07] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[21:52:07] [Server thread/WARN]: [WorldEdit]   
+[21:52:07] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[21:52:07] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[21:52:07] [Server thread/WARN]: [WorldEdit]   
+[21:52:07] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[21:52:07] [Server thread/WARN]: [WorldEdit] ====================================================
+[21:52:07] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[21:52:07] [Server thread/ERROR]: [mcMMO] There was an error while enabling mcMMO!
+[21:52:07] [Server thread/WARN]: java.lang.NoSuchMethodError: org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(Ljava/io/InputStream;)Lorg/bukkit/configuration/file/YamlConfiguration;
+[21:52:07] [Server thread/WARN]: 	at com.gmail.nossr50.config.HiddenConfig.load(HiddenConfig.java:31)
+[21:52:07] [Server thread/WARN]: 	at com.gmail.nossr50.config.HiddenConfig.<init>(HiddenConfig.java:18)
+[21:52:07] [Server thread/WARN]: 	at com.gmail.nossr50.config.HiddenConfig.getInstance(HiddenConfig.java:23)
+[21:52:07] [Server thread/WARN]: 	at com.gmail.nossr50.mcMMO.loadConfigFiles(mcMMO.java:400)
+[21:52:07] [Server thread/WARN]: 	at com.gmail.nossr50.mcMMO.onEnable(mcMMO.java:134)
+[21:52:07] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+[21:52:07] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:344)
+[21:52:07] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:416)
+[21:52:07] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:448)
+[21:52:07] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:374)
+[21:52:07] [Server thread/WARN]: 	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:198)
+[21:52:07] [Server thread/WARN]: 	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:762)
+[21:52:07] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[21:52:07] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[21:52:07] [Server thread/ERROR]: Error occurred while disabling mcMMO v1.5.00-b3547 (Is it up to date?)
+java.lang.NoSuchMethodError: org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(Ljava/io/InputStream;)Lorg/bukkit/configuration/file/YamlConfiguration;
+	at com.gmail.nossr50.config.AutoUpdateConfigLoader.loadFile(AutoUpdateConfigLoader.java:29) ~[?:?]
+	at com.gmail.nossr50.config.ConfigLoader.<init>(ConfigLoader.java:26) ~[?:?]
+	at com.gmail.nossr50.config.AutoUpdateConfigLoader.<init>(AutoUpdateConfigLoader.java:23) ~[?:?]
+	at com.gmail.nossr50.config.AdvancedConfig.<init>(AdvancedConfig.java:20) ~[?:?]
+	at com.gmail.nossr50.config.AdvancedConfig.getInstance(AdvancedConfig.java:26) ~[?:?]
+	at com.gmail.nossr50.skills.alchemy.Alchemy.<clinit>(Alchemy.java:51) ~[?:?]
+	at com.gmail.nossr50.mcMMO.onDisable(mcMMO.java:203) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:369) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:437) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
+	at com.gmail.nossr50.mcMMO.onEnable(mcMMO.java:193) [mcMMO.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:344) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:416) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:448) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:374) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:198) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:762) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
+[21:52:07] [Server thread/INFO]: Preparing level "world"
+[21:52:08] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:52:08] [Server thread/INFO]: Loaded 6 recipes
+[21:52:09] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:52:09] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[21:52:11] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:11] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:11] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:11] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:14] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[21:52:14] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[21:52:14] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[21:52:14] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[21:52:14] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[21:52:14] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[21:52:14] [Server-Worker-5/INFO]: Preparing spawn area: 91%
+[21:52:14] [Server-Worker-7/INFO]: Preparing spawn area: 93%
+[21:52:15] [Server thread/INFO]: Preparing spawn area: 95%
+[21:52:15] [Server thread/INFO]: Time elapsed: 6322 ms
+[21:52:15] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[21:52:16] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:16] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:16] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[21:52:17] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[21:52:17] [Server thread/INFO]: Preparing spawn area: 88%
+[21:52:18] [Server-Worker-7/INFO]: Preparing spawn area: 97%
+[21:52:18] [Server thread/INFO]: Time elapsed: 2658 ms
+[21:52:18] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[21:52:19] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:19] [Server thread/INFO]: Preparing spawn area: 0%
+[21:52:19] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[21:52:19] [Server thread/INFO]: Time elapsed: 1348 ms
+[21:52:19] [Server thread/INFO]: [SetHomes] Enabling SetHomes v1.2.5
+[21:52:19] [Server thread/INFO]: [Timber] Enabling Timber v1.0.7
+[21:52:19] [Server thread/INFO]: Timber Log Materials: [DARK_OAK_LOG, BIRCH_LOG, OAK_LOG, JUNGLE_LOG, SPRUCE_LOG, ACACIA_LOG]
+[21:52:19] [Server thread/INFO]: Timber Axe Materials: [DIAMOND_AXE, STONE_AXE, WOODEN_AXE, IRON_AXE, GOLDEN_AXE]
+[21:52:19] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.36
+[21:52:19] [Server thread/INFO]: [1m[33m**************************************[0m
+[21:52:19] [Server thread/INFO]: [1m[32mSinglePlayerSleep v1.13_2.13.36[0m Loading...
+[21:52:19] [Server thread/INFO]: [1m[33mSinglePlayerSleep 1.13_2.13.36[0m lang file not found! copied cs_CZ.yml, de_DE.yml, en_US.yml, es_MX.yml, fr_FR.yml, lol_US.yml, nl_NL.yml, pt_BR.yml, and zh_TW.yml to plugins\SinglePlayerSleep\lang[0m
+[21:52:19] [Server thread/INFO]: [1m[33mSinglePlayerSleep 1.13_2.13.36[0m Updating lang files! copied cs_CZ.yml, de_DE.yml, en_US.yml, es_MX.yml, fr_FR.yml, lol_US.yml, nl_NL.yml, pt_BR.yml, and zh_TW.yml to plugins\SinglePlayerSleep\lang[0m
+[21:52:19] [Server thread/INFO]: [1m[33mSinglePlayerSleep 1.13_2.13.36[0m plugins\SinglePlayerSleep\config.yml[0m
+[21:52:19] [Server thread/INFO]: [1m[33mSinglePlayerSleep 1.13_2.13.36[0m config.yml not found, creating![0m
+[21:52:19] [Server thread/INFO]: Checking for updates...[m
+[21:52:20] [Server thread/INFO]: [1m[33m**************************************[0m
+[21:52:20] [Server thread/INFO]: [1m[32mSinglePlayerSleep v1.13_2.13.36[0m is [1mENABLED[0m
+[21:52:20] [Server thread/INFO]: [1m[33m**************************************[0m
+[21:52:20] [Server thread/INFO]: [1m[33mSinglePlayerSleep 1.13_2.13.36[0m MC vgit-Bukkit-8160e29 (MC: 1.15.2) debug=false in plugins\SinglePlayerSleep/config.yml[0m
+[21:52:20] [Server thread/INFO]: [AdvancedAchievements] Enabling AdvancedAchievements v5.15.1
+[21:52:20] [Server thread/INFO]: [AdvancedAchievements] Loading and backing up configuration files...
+[21:52:20] [Server thread/INFO]: [AdvancedAchievements] Successfully created config.yml file.
+[21:52:20] [Server thread/INFO]: [AdvancedAchievements] Successfully created lang.yml file.
+[21:52:20] [Server thread/INFO]: [AdvancedAchievements] Successfully created gui.yml file.
+[21:52:21] [Server thread/WARN]: [AdvancedAchievements] Overriding configuration: disabling PetMasterGive and PetMasterReceive categories.
+[21:52:21] [Server thread/WARN]: [AdvancedAchievements] Ensure you have placed Pet Master with a minimum version of 1.4 in your plugins folder or add PetMasterGive and PetMasterReceive to the DisabledCategories list in config.yml.
+[21:52:21] [Server thread/INFO]: [AdvancedAchievements] Loaded 58 achievements in 48 categories.
+[21:52:21] [Server thread/INFO]: [AdvancedAchievements] 3 disabled categories: [AdvancementsCompleted, PetMasterReceive, PetMasterGive]
+[21:52:21] [Server thread/INFO]: [AdvancedAchievements] Registering event listeners...
+[21:52:21] [Server thread/INFO]: [AdvancedAchievements] Initialising database...
+[21:52:22] [Server thread/INFO]: [AdvancedAchievements] Setting up command executor and custom tab completers...
+[21:52:22] [Server thread/INFO]: [AdvancedAchievements] Launching scheduled tasks...
+[21:52:22] [Server thread/INFO]: [AdvancedAchievements] Registering permissions...
+[21:52:22] [Thread-13/INFO]: [AdvancedAchievements] Checking for plugin update...
+[21:52:23] [Server thread/INFO]: [AdvancedAchievements] Plugin has finished loading and is ready to run! Took 3039ms.
+[21:52:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:52:24] [Server thread/INFO]: Done (16.146s)! For help, type "help"
+[21:52:43] [User Authenticator #1/INFO]: UUID of player DrMonkeyifyed is 8cbd3a4b-1df6-440a-8d5a-3632c1643299
+[21:52:43] [Server thread/INFO]: DrMonkeyifyed[/192.168.1.1:60405] logged in with entity id 253 at ([world]138.42380813972588, 70.0, -190.58814725012255)
+[21:52:48] [Server thread/INFO]: [AdvancedAchievements] Player DrMonkeyifyed received the achievement: connect_1 (Good Choice)
+[21:53:16] [Server thread/INFO]: Made DrMonkeyifyed a server operator
+[21:53:45] [Server thread/INFO]: DrMonkeyifyed issued server command: /give me minecraft:cooked_beef 64
+[21:53:52] [Server thread/INFO]: DrMonkeyifyed issued server command: /give DrMonkeyifyed minecraft:cooked_beef 64
+[21:53:52] [Server thread/INFO]: [DrMonkeyifyed: Gave 64 [Steak] to DrMonkeyifyed]
+[21:53:54] [Server thread/INFO]: [AdvancedAchievements] Player DrMonkeyifyed received the achievement: eatenitems_1 (First Snack)
+[21:54:06] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[21:54:08] [Server thread/INFO]: Set the time to 1000
+[21:54:21] [Server thread/INFO]: DrMonkeyifyed issued server command: /gamemode creative
+[21:54:21] [Server thread/INFO]: [DrMonkeyifyed: Set own game mode to Creative Mode]
+[21:54:27] [Server thread/INFO]: DrMonkeyifyed issued server command: /gamemode survival
+[21:54:27] [Server thread/INFO]: [DrMonkeyifyed: Set own game mode to Survival Mode]
+[21:54:31] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[21:54:41] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[21:54:41] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[21:54:41] [Server thread/INFO]: [0;33;22mAdvancedAchievements: [0;37;1mAll commands for AdvancedAchievements[m
+[21:54:41] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[21:54:41] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[21:54:41] [Server thread/INFO]: [0;33;22mmcMMO: [0;37;1mAll commands for mcMMO[m
+[21:54:41] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[21:54:41] [Server thread/INFO]: [0;33;22mSetHomes: [0;37;1mAll commands for SetHomes[m
+[21:54:41] [Server thread/INFO]: [0;33;22mSinglePlayerSleep: [0;37;1mAll commands for SinglePlayerSleep[m
+[21:54:41] [Server thread/INFO]: [0;33;22mWorldEdit: [0;37;1mAll commands for WorldEdit[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/.s: [0;37;1mExecute last CraftScript[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//: [0;37;1mToggle the super pickaxe function[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//calculate: [0;37;1mEvaluate a mathematical expression[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//center: [0;37;1mSet the center block(s)[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//chunk: [0;37;1mSet the selection to your current chunk.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//contract: [0;37;1mContract the selection area[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//copy: [0;37;1mCopy the selection to the clipboard[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//count: [0;37;1mCounts the number of blocks matching a mask[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//curve: [0;37;1mDraws a spline through selected points[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//cut: [0;37;1mCut the selection to the clipboard[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//cyl: [0;37;1mGenerates a cylinder.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//deform: [0;37;1mDeforms a selected region with an expression[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//distr: [0;37;1mGet the distribution of blocks in the selection[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//drain: [0;37;1mDrain a pool[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//drawsel: [0;37;1mToggle drawing the current selection[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//expand: [0;37;1mExpand the selection area[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//faces: [0;37;1mBuild the walls, ceiling, and floor of a selection[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//fast: [0;37;1mToggle fast mode[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//fill: [0;37;1mFill a hole[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//fillr: [0;37;1mFill a hole recursively[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//flip: [0;37;1mFlip the contents of the clipboard across the origin[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//flora: [0;37;1mMake flora within the region[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//forest: [0;37;1mMake a forest within the region[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//generate: [0;37;1mGenerates a shape according to a formula.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//generatebiome: [0;37;1mSets biome according to a formula.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//hcyl: [0;37;1mGenerates a hollow cylinder.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//help: [0;37;1mDisplays help for WorldEdit commands[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//hollow: [0;37;1mHollows out the object contained in this selection[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//hpos1: [0;37;1mSet position 1 to targeted block[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//hpos2: [0;37;1mSet position 2 to targeted block[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//hpyramid: [0;37;1mGenerate a hollow pyramid[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//hsphere: [0;37;1mGenerates a hollow sphere.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//inset: [0;37;1mInset the selection area[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//limit: [0;37;1mModify block change limit[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//line: [0;37;1mDraws line segments between cuboid selection corners or convex polyhedral selection vertices[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//move: [0;37;1mMove the contents of the selection[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//naturalize: [0;37;1m3 layers of dirt on top then rock below[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//outset: [0;37;1mOutset the selection area[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//overlay: [0;37;1mSet a block on top of blocks in the region[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//paste: [0;37;1mPaste the clipboard's contents[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//pos1: [0;37;1mSet position 1[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//pos2: [0;37;1mSet position 2[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//pyramid: [0;37;1mGenerate a filled pyramid[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//regen: [0;37;1mRegenerates the contents of the selection[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//reorder: [0;37;1mSets the reorder mode of WorldEdit[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//replace: [0;37;1mReplace all blocks in the selection with another[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//rotate: [0;37;1mRotate the contents of the clipboard[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//sel: [0;37;1mChoose a region selector[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//set: [0;37;1mSets all the blocks in the region[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//setbiome: [0;37;1mSets the biome of your current block or region.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//shift: [0;37;1mShift the selection area[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//size: [0;37;1mGet information about the selection[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//smooth: [0;37;1mSmooth the elevation in the selection[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//sphere: [0;37;1mGenerates a filled sphere.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//stack: [0;37;1mRepeat the contents of the selection[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//timeout: [0;37;1mModify evaluation timeout time.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//walls: [0;37;1mBuild the four sides of the selection[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//wand: [0;37;1mGet the wand object[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//watchdog: [0;37;1mChanges watchdog hook state.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m//world: [0;37;1mSets the world override[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/aach: [0;37;1mMain Advanced Achievements command, use it to list sub-commands.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/acrobatics: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/addlevels: [0;37;1mAdd mcMMO levels to a user[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/addxp: [0;37;1mAdd mcMMO XP to a user[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/adminchat: [0;37;1mToggle Admin chat or send admin chat messages[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/alchemy: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/archery: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/ascend: [0;37;1mGo up a floor[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/axes: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/biomeinfo: [0;37;1mGet the biome of the targeted block.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/biomelist: [0;37;1mGets all biomes available.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/blacklist: [0;37;1mBlacklist of worlds to disallow home setting in[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/brush: [0;37;1mBrushing commands[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/butcher: [0;37;1mKill all or nearby mobs[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/cancel: [0;37;1mCancels Single Player Sleep. Does not change to day.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/ceil: [0;37;1mGo to the ceiling[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/chunkinfo: [0;37;1mGet information about the chunk you're inside[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/clearclipboard: [0;37;1mClear your clipboard[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/clearhistory: [0;37;1mClear your history[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/cs: [0;37;1mExecute a CraftScript[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/cycler: [0;37;1mBlock data cycler tool[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/data: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/dayskip: [0;37;1mNotifies players that player wishes to dayskip.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/delchunks: [0;37;1mDelete chunks that your selection includes[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/delhome: [0;37;1mDeletes a home from the list of players homes.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/delhome-of: [0;37;1mGives a player the ability to delete a home from the list of any players home.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/deltree: [0;37;1mFloating tree remover tool[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/descend: [0;37;1mGo down a floor[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/excavation: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/experience: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/extinguish: [0;37;1mExtinguish nearby fire[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/farwand: [0;37;1mWand at a distance tool[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/fishing: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/fixlava: [0;37;1mFix lava to be stationary[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/fixwater: [0;37;1mFix water to be stationary[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/floodfill: [0;37;1mFlood fill tool[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/forestgen: [0;37;1mGenerate a forest[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/gmask: [0;37;1mSet the global mask[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/green: [0;37;1mConverts dirt to grass blocks in the area[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/hardcore: [0;37;1mModify the mcMMO hardcore percentage or toggle hardcore mode on/off[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/herbalism: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/home: [0;37;1mTeleports a player to their home.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/home-of: [0;37;1mTeleports the player sending the command to any players home. The default home name is 'unnamed_home'.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/homes: [0;37;1mLists all of a players homes.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/info: [0;37;1mBlock information tool[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/inspect: [0;37;1mView detailed mcMMO info on another player[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/jumpto: [0;37;1mTeleport to a location[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/kraken: [0;37;1mUnleash the kraken![m
+[21:54:41] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/listchunks: [0;37;1mList chunks that your selection includes[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/loot: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/lrbuild: [0;37;1mLong-range building tool[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mask: [0;37;1mSet the brush mask[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/material: [0;37;1mSet the brush material[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mcability: [0;37;1mToggle whether or not abilities get readied on right click[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mcconvert: [0;37;1mConvert between different database and formula types[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mccooldown: [0;37;1mShow the cooldowns on all your mcMMO abilities[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mcfools: [0;37;1mDeploy jokes[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mcgod: [0;37;1mToggle mcMMO god-mode on/off[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mcmmo: [0;37;1mShows a brief mod description[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mcnotify: [0;37;1mToggle mcMMO abilities chat display notifications on/off[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mcpurge: [0;37;1mPurge users with 0 powerlevel and/or who haven't connected in several months from the server DB.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mcrank: [0;37;1mShow mcMMO ranking for a player[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mcrefresh: [0;37;1mRefresh all cooldowns for mcMMO[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mcremove: [0;37;1mRemove a user from the database[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mcscoreboard: [0;37;1mManage your mcMMO Scoreboard[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mcstats: [0;37;1mShows your mcMMO stats and xp[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mctop: [0;37;1mShow mcMMO leader boards[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mining: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mmoedit: [0;37;1mEdit the mcMMO skill values for a user[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mmoshowdb: [0;37;1mShow the name of the current database type (for later use with /mmoupdate)[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/mobhealth: [0;37;1mChange the style of the mob healthbar[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/msg: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/navwand: [0;37;1mNavigation wand tool[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/none: [0;37;1mUnbind a bound tool from your current item[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/party: [0;37;1mCreate/join a party[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/partychat: [0;37;1mToggle Party chat or send party chat messages[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/ptp: [0;37;1mTeleport to a party member[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/publish: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/pumpkins: [0;37;1mGenerate pumpkin patches[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/range: [0;37;1mSet the brush range[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/redo: [0;37;1mRedoes the last action (from history)[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/remove: [0;37;1mRemove all entities of a type[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/removeabove: [0;37;1mRemove blocks above your head.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/removebelow: [0;37;1mRemove blocks below you.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/removenear: [0;37;1mRemove blocks near you.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/repair: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/repl: [0;37;1mBlock replacer tool[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/replacenear: [0;37;1mReplace nearby blocks[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/restore: [0;37;1mRestore the selection from a snapshot[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/schedule: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/schematic: [0;37;1mSchematic commands for saving/loading areas[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/searchitem: [0;37;1mSearch for an item[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/selwand: [0;37;1mSelection wand tool[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/sethome: [0;37;1mSets a players home at the standing location.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/size: [0;37;1mSet the brush size[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/skillreset: [0;37;1mReset the level of one or all of your skills[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/sleep: [0;37;1mNotifies players that player wishes to sleep.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/smelting: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/snapshot: [0;37;1mSnapshot commands for restoring backups[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/snow: [0;37;1mSimulates snow[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/spectate: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/sps: [0;37;1mShows SinglePlayerSleep help.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/strike: [0;37;1mStrike fury into your enemies with your wand.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/superpickaxe: [0;37;1mSuper-pickaxe commands[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/swords: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/tag: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/taming: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/team: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/teammsg: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/thaw: [0;37;1mThaws the area[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/thru: [0;37;1mPass through walls[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/tm: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/toggleeditwand: [0;37;1mRemind the user that the wand is now a tool and can be unbound with /none.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/toggleplace: [0;37;1mSwitch between your position and pos1 for placement[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/tool: [0;37;1mBinds a tool to the item in your hand[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/tracemask: [0;37;1mSet the mask used to stop tool traces[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/tree: [0;37;1mTree generator tool[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/unarmed: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/undo: [0;37;1mUndoes the last action (from history)[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/unstuck: [0;37;1mEscape from being stuck inside a block[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/up: [0;37;1mGo upwards some distance[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/vampirism: [0;37;1mModify the mcMMO vampirism percentage or toggle vampirism mode on/off[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/w: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/woodcutting: [0;37;1mDetailed mcMMO skill info[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/worldedit: [0;37;1mWorldEdit commands[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[21:54:41] [Server thread/INFO]: [0;33;22m/xprate: [0;37;1mModify the xp rate or start an event[m
+[21:55:40] [Server thread/INFO]: DrMonkeyifyed issued server command: /help
+[21:55:50] [Server thread/INFO]: DrMonkeyifyed issued server command: /help 2
+[21:55:51] [Server thread/INFO]: DrMonkeyifyed issued server command: /help 3
+[21:55:59] [User Authenticator #2/INFO]: UUID of player BRIKEUH is 672c2621-eb8b-419b-a43c-6e178313a19a
+[21:55:59] [Server thread/INFO]: BRIKEUH[/108.185.7.252:54525] logged in with entity id 652 at ([world]140.7269486560838, 71.0, -190.30856908316952)
+[21:56:04] [Server thread/INFO]: [AdvancedAchievements] Player BRIKEUH received the achievement: connect_1 (Good Choice)
+[21:56:22] [Server thread/INFO]: DrMonkeyifyed issued server command: /gamemode creative
+[21:56:22] [Server thread/INFO]: [DrMonkeyifyed: Set own game mode to Creative Mode]
+[21:56:33] [Server thread/INFO]: DrMonkeyifyed issued server command: /gamemode survival
+[21:56:33] [Server thread/INFO]: [DrMonkeyifyed: Set own game mode to Survival Mode]
+[21:56:45] [Server thread/INFO]: DrMonkeyifyed issued server command: /gamemode creative
+[21:56:45] [Server thread/INFO]: [DrMonkeyifyed: Set own game mode to Creative Mode]
+[21:56:51] [Server thread/INFO]: DrMonkeyifyed issued server command: /gamemode survival
+[21:56:51] [Server thread/INFO]: [DrMonkeyifyed: Set own game mode to Survival Mode]
+[21:56:54] [Server thread/INFO]: Made BRIKEUH a server operator
+[21:59:07] [Server thread/INFO]: Stopping the server
+[21:59:07] [Server thread/INFO]: Stopping server
+[21:59:07] [Server thread/INFO]: [AdvancedAchievements] Disabling AdvancedAchievements v5.15.1
+[21:59:07] [Server thread/INFO]: [AdvancedAchievements] Remaining requests sent to the database, plugin successfully disabled.
+[21:59:07] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.36
+[21:59:07] [Server thread/INFO]: [1m[33m**************************************[0m
+[21:59:07] [Server thread/INFO]: [1m[32mSinglePlayerSleep v1.13_2.13.36[0m is [1mDISABLED[0m
+[21:59:07] [Server thread/INFO]: [1m[33m**************************************[0m
+[21:59:07] [Server thread/INFO]: [Timber] Disabling Timber v1.0.7
+[21:59:07] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[21:59:07] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:59:07] [Server thread/INFO]: [SetHomes] Disabling SetHomes v1.2.5
+[21:59:07] [Server thread/INFO]: Saving players
+[21:59:07] [Server thread/INFO]: DrMonkeyifyed lost connection: Server closed
+[21:59:07] [Server thread/INFO]: DrMonkeyifyed left the game
+[21:59:07] [Server thread/INFO]: BRIKEUH lost connection: Server closed
+[21:59:07] [Server thread/INFO]: BRIKEUH left the game
+[21:59:07] [Server thread/INFO]: Saving worlds
+[21:59:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:59:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:59:07] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[21:59:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:59:07] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[21:59:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:59:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:59:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:59:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
