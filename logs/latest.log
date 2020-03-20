@@ -1,381 +1,159 @@
-[00:09:26] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[00:09:26] [Server thread/INFO]: Loading properties
-[00:09:26] [Server thread/INFO]: Default game type: SURVIVAL
-[00:09:26] [Server thread/INFO]: Generating keypair
-[00:09:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:09:26] [Server thread/INFO]: Using default channel type
-[00:09:28] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[00:09:34] [Server thread/WARN]: Plugin dynmap v2.5-Dev201706100405 does not specify an api-version.
-[00:09:35] [Server thread/WARN]: Plugin Bssentials v3.0-b28 does not specify an api-version.
-[00:09:35] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.1.6
-[00:09:35] [Server thread/INFO]: [dynmap] Loading dynmap v2.5-Dev201706100405
-[00:09:35] [Server thread/INFO]: [dynmap] version=git-Bukkit-8160e29 (MC: 1.15.2)
-[00:09:35] [Server thread/ERROR]: [dynmap] Unable to find field biome for org.bukkit.craftbukkit.v1_15_R1.CraftChunkSnapshot
-[00:09:35] [Server thread/ERROR]: Error initializing dynmap - bukkit version incompatible! initializing dynmap v2.5-Dev201706100405 (Is it up to date?)
-java.lang.IllegalArgumentException: Error initializing dynmap - bukkit version incompatible!
-	at org.dynmap.bukkit.BukkitVersionHelperGeneric.<init>(BukkitVersionHelperGeneric.java:129) ~[?:?]
-	at org.dynmap.bukkit.BukkitVersionHelperCB.<init>(BukkitVersionHelperCB.java:39) ~[?:?]
-	at org.dynmap.bukkit.BukkitVersionHelper.getHelper(BukkitVersionHelper.java:42) ~[?:?]
-	at org.dynmap.bukkit.DynmapPlugin.onLoad(DynmapPlugin.java:756) ~[?:?]
-	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.loadPlugins(CraftServer.java:354) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:197) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:762) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
-[00:09:35] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
-[00:09:37] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@626f0dd7]
-[00:09:37] [Server thread/INFO]: [Timber] Loading Timber v1.0.7
-[00:09:37] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.36
-[00:09:37] [Server thread/INFO]: [Minepacks] Loading Minepacks v2.3.4-Release
-[00:09:37] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
-[00:09:37] [Server thread/INFO]: [Bssentials] Loading Bssentials v3.0-b28
-[00:09:37] [Server thread/INFO]: [DeadChest] Loading DeadChest v3.1
-[00:09:37] [Server thread/INFO]: [AdvancedAchievements] Loading AdvancedAchievements v5.15.1
-[00:09:37] [Server thread/INFO]: [VeinMiner] Loading VeinMiner v1.15.0
-[00:09:37] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
-[00:09:37] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[00:09:39] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
-[00:09:40] [Server thread/WARN]: [WorldEdit] ====================================================
-[00:09:40] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
-[00:09:40] [Server thread/WARN]: [WorldEdit]  as your server software. 
-[00:09:40] [Server thread/WARN]: [WorldEdit]   
-[00:09:40] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
-[00:09:40] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
-[00:09:40] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
-[00:09:40] [Server thread/WARN]: [WorldEdit]   
-[00:09:40] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
-[00:09:40] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
-[00:09:40] [Server thread/WARN]: [WorldEdit]   
-[00:09:40] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
-[00:09:40] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
-[00:09:40] [Server thread/WARN]: [WorldEdit]   
-[00:09:40] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
-[00:09:40] [Server thread/WARN]: [WorldEdit] ====================================================
-[00:09:40] [Server thread/INFO]: Preparing level "world"
-[00:09:41] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[00:09:41] [Server thread/INFO]: Loaded 6 recipes
-[00:09:43] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[00:09:44] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[00:09:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:48] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[00:09:55] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:56] [Server thread/INFO]: Time elapsed: 12062 ms
-[00:09:56] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[00:09:57] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:57] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:57] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:57] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:09:58] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[00:09:58] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[00:09:59] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[00:09:59] [Server-Worker-3/INFO]: Preparing spawn area: 84%
-[00:10:00] [Server-Worker-1/INFO]: Preparing spawn area: 85%
-[00:10:00] [Server-Worker-2/INFO]: Preparing spawn area: 91%
-[00:10:01] [Server-Worker-3/INFO]: Preparing spawn area: 98%
-[00:10:01] [Server thread/INFO]: Time elapsed: 5127 ms
-[00:10:01] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[00:10:02] [Server thread/INFO]: Preparing spawn area: 0%
-[00:10:02] [Server thread/INFO]: Preparing spawn area: 0%
-[00:10:02] [Server thread/INFO]: Preparing spawn area: 57%
-[00:10:03] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[00:10:03] [Server thread/INFO]: Time elapsed: 1990 ms
-[00:10:03] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.1.6
-[00:10:03] [Server thread/INFO]: [ClearLag] Config not found. Generating default config...
-[00:10:03] [Server thread/INFO]: [ClearLag] Loading modules...
-[00:10:03] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (recentTps)
-[00:10:03] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[00:10:03] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[00:10:03] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[00:10:03] [Server thread/INFO]: [dynmap] Enabling dynmap v2.5-Dev201706100405
-[00:10:03] [Server thread/INFO]: [dynmap] Dynmap is disabled (unsupported platform)
-[00:10:03] [Server thread/INFO]: [Timber] Enabling Timber v1.0.7
-[00:10:03] [Thread-13/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.15]...
-[00:10:03] [Server thread/INFO]: Timber Log Materials: [DARK_OAK_LOG, OAK_LOG, SPRUCE_LOG, ACACIA_LOG, BIRCH_LOG, JUNGLE_LOG]
-[00:10:03] [Server thread/INFO]: Timber Axe Materials: [GOLDEN_AXE, IRON_AXE, STONE_AXE, DIAMOND_AXE, WOODEN_AXE]
-[00:10:03] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.36
-[00:10:03] [Server thread/INFO]: [1m[33m**************************************[0m
-[00:10:03] [Server thread/INFO]: [1m[32mSinglePlayerSleep v1.13_2.13.36[0m Loading...
-[00:10:03] [Server thread/INFO]: [1m[33mSinglePlayerSleep 1.13_2.13.36[0m Updating lang files! copied cs_CZ.yml, de_DE.yml, en_US.yml, es_MX.yml, fr_FR.yml, lol_US.yml, nl_NL.yml, pt_BR.yml, and zh_TW.yml to plugins\SinglePlayerSleep\lang[0m
-[00:10:03] [Server thread/INFO]: [1m[33mSinglePlayerSleep 1.13_2.13.36[0m plugins\SinglePlayerSleep\config.yml[0m
-[00:10:03] [Server thread/INFO]: Checking for updates...[m
-[00:10:04] [Server thread/INFO]: [1m[33m**************************************[0m
-[00:10:04] [Server thread/INFO]: [1m[32mSinglePlayerSleep v1.13_2.13.36[0m is [1mENABLED[0m
-[00:10:04] [Server thread/INFO]: [1m[33m**************************************[0m
-[00:10:04] [Server thread/INFO]: [1m[33mSinglePlayerSleep 1.13_2.13.36[0m MC vgit-Bukkit-8160e29 (MC: 1.15.2) debug=false in plugins\SinglePlayerSleep/config.yml[0m
-[00:10:04] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.3.4-Release
-[00:10:04] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
-[00:10:04] [Server thread/INFO]: [Minepacks] [32mConfig file successfully loaded.[0m
-[00:10:04] [Server thread/INFO]: [Minepacks] [32mLanguage file successfully loaded. Language: english  Author: GeorgH93[0m
-[00:10:04] [Server thread/INFO]: Minepacks-Connection-Pool - Starting...
-[00:10:04] [Thread-13/INFO]: [ClearLag] No updates found!
-[00:10:05] [Server thread/INFO]: Minepacks-Connection-Pool - Start completed.
-[00:10:06] [Server thread/INFO]: [Minepacks] [32mItem name language file successfully loaded. Language: english  Author: GeorgH93[0m
-[00:10:06] [Server thread/INFO]: [Minepacks] Loading item translations ...
-[00:10:06] [Server thread/INFO]: [Minepacks] Finished loading item translations for 830 items.
-[00:10:06] [Server thread/INFO]: [Minepacks] [32m Minepacks has been enabled! [33m :) [0m
-[00:10:06] [Server thread/INFO]: [Bssentials] Enabling Bssentials v3.0-b28
-[00:10:06] [Server thread/INFO]: [Bssentials] Loading configuration...
-[00:10:06] [Server thread/INFO]: [Bssentials] Configuration file "config.yml" does not exist. Creating new configuration...
-[00:10:06] [Server thread/INFO]: [Bssentials] Registering commands...
-[00:10:06] [Server thread/INFO]: [Bssentials] Registered 38 commands
-[00:10:06] [Server thread/INFO]: [DeadChest] Enabling DeadChest v3.1
-[00:10:06] [Server thread/INFO]: [AdvancedAchievements] Enabling AdvancedAchievements v5.15.1
-[00:10:06] [Server thread/INFO]: [AdvancedAchievements] Loading and backing up configuration files...
-[00:10:06] [Server thread/WARN]: [AdvancedAchievements] Overriding configuration: disabling PetMasterGive and PetMasterReceive categories.
-[00:10:06] [Server thread/WARN]: [AdvancedAchievements] Ensure you have placed Pet Master with a minimum version of 1.4 in your plugins folder or add PetMasterGive and PetMasterReceive to the DisabledCategories list in config.yml.
-[00:10:06] [Server thread/INFO]: [AdvancedAchievements] Loaded 58 achievements in 48 categories.
-[00:10:06] [Server thread/INFO]: [AdvancedAchievements] 3 disabled categories: [PetMasterGive, AdvancementsCompleted, PetMasterReceive]
-[00:10:06] [Server thread/INFO]: [AdvancedAchievements] Registering event listeners...
-[00:10:06] [Server thread/INFO]: [AdvancedAchievements] Initialising database...
-[00:10:07] [Server thread/INFO]: [AdvancedAchievements] Setting up command executor and custom tab completers...
-[00:10:07] [Server thread/INFO]: [AdvancedAchievements] Launching scheduled tasks...
-[00:10:07] [Server thread/INFO]: [AdvancedAchievements] Registering permissions...
-[00:10:08] [Thread-16/INFO]: [AdvancedAchievements] Checking for plugin update...
-[00:10:10] [Server thread/INFO]: [AdvancedAchievements] Plugin has finished loading and is ready to run! Took 4512ms.
-[00:10:10] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v1.15.0
-[00:10:10] [Server thread/INFO]: [VeinMiner] Registering events
-[00:10:10] [Server thread/INFO]: [VeinMiner] Registering commands
-[00:10:10] [Server thread/INFO]: [VeinMiner] Vault not found. Economy support suspended
-[00:10:10] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
-[00:10:10] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
-[00:10:10] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
-[00:10:10] [Server thread/INFO]: [VeinMiner] Performing an update check!
-[00:10:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:10:10] [ForkJoinPool.commonPool-worker-1/INFO]: [VeinMiner] Your version of VeinMiner (1.15.0) is up to date!
-[00:10:11] [Server thread/INFO]: Done (30.154s)! For help, type "help"
-[00:10:11] [Server thread/INFO]: [Bssentials]  __   __   __   ___      ___              __  
-[00:10:11] [Server thread/INFO]: [Bssentials] |__) /__` /__` |__  |\ |  |  |  /\  |    /__` 
-[00:10:11] [Server thread/INFO]: [Bssentials] |__) .__/ .__/ |___ | \|  |  | /~~\ |___ .__/ 
-[00:10:11] [Server thread/INFO]: [Bssentials]                                                 
-[00:10:11] [Server thread/INFO]: [Bssentials] Version 3.0-b28
-[00:10:11] [Server thread/WARN]: [Bssentials] The EssentialsBridge plugin is not installed! Plugins that requrire the EssAPI will not function with Bssentials without this bridge, (ex ChestShop, Vault, etc)
-[00:10:11] [Server thread/INFO]: [Bssentials] https://dev.bukkit.org/projects/essentialsapibridge
-[00:11:05] [User Authenticator #1/INFO]: UUID of player BRIKEUH is 672c2621-eb8b-419b-a43c-6e178313a19a
-[00:11:05] [User Authenticator #2/INFO]: UUID of player DrMonkeyifyed is 8cbd3a4b-1df6-440a-8d5a-3632c1643299
-[00:11:05] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to Bssentials v3.0-b28
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:312) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:528) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:159) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:126) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:53) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:211) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:122) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1037) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:386) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:940) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:789) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
-Caused by: java.lang.NullPointerException
-	at bssentials.listeners.PlayerJoin.onPlayerJoin(PlayerJoin.java:31) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	... 13 more
-[00:11:07] [Server thread/INFO]: BRIKEUH[/108.185.7.252:54752] logged in with entity id 220 at ([world]-107.30000001192093, 89.0, 204.30000001192093)
-[00:11:08] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to Bssentials v3.0-b28
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:312) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:528) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:159) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:126) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:53) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:211) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:122) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1037) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:386) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:940) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:789) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
-Caused by: java.lang.NullPointerException
-	at bssentials.listeners.PlayerJoin.onPlayerJoin(PlayerJoin.java:31) ~[?:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_241]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_241]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_241]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	... 13 more
-[00:11:08] [Server thread/INFO]: DrMonkeyifyed[/47.145.113.40:52167] logged in with entity id 221 at ([world]-82.9536290528446, 72.99442662744718, 235.74841049248678)
-[00:11:11] [Server thread/INFO]: [AdvancedAchievements] Player BRIKEUH received the achievement: connect_1 (Good Choice)
-[00:11:11] [Server thread/INFO]: [AdvancedAchievements] Player DrMonkeyifyed received the achievement: connect_1 (Good Choice)
-[00:11:42] [Server thread/INFO]: BRIKEUH issued server command: /home
-[00:11:44] [Server thread/INFO]: BRIKEUH issued server command: /homes
-[00:11:46] [Server thread/INFO]: DrMonkeyifyed issued server command: /sethome
-[00:11:48] [Server thread/INFO]: BRIKEUH issued server command: /sethome
-[00:11:52] [Server thread/INFO]: BRIKEUH issued server command: /sethome forest
-[00:11:52] [Server thread/INFO]: DrMonkeyifyed issued server command: /sethome here
-[00:11:55] [Server thread/INFO]: DrMonkeyifyed issued server command: /home here
-[00:11:58] [Server thread/INFO]: DrMonkeyifyed issued server command: /home
-[00:12:00] [Server thread/INFO]: BRIKEUH issued server command: /sethome forest
-[00:12:02] [Server thread/INFO]: DrMonkeyifyed issued server command: /home here
-[00:12:02] [Server thread/INFO]: BRIKEUH issued server command: /home
-[00:12:05] [Server thread/INFO]: BRIKEUH issued server command: /home
-[00:12:06] [Server thread/INFO]: DrMonkeyifyed issued server command: /delhome here
-[00:12:08] [Server thread/INFO]: BRIKEUH issued server command: /home
-[00:12:12] [Server thread/INFO]: BRIKEUH issued server command: /help
-[00:12:16] [Server thread/INFO]: BRIKEUH issued server command: /sethome home
-[00:12:18] [Server thread/INFO]: DrMonkeyifyed issued server command: /tp DrMonkeyifyed BRIKEUH
-[00:12:18] [Server thread/INFO]: [DrMonkeyifyed: Teleported DrMonkeyifyed to BRIKEUH]
-[00:12:20] [Server thread/INFO]: BRIKEUH issued server command: /home
-[00:12:25] [Server thread/INFO]: DrMonkeyifyed issued server command: /gamemode survival
-[00:12:25] [Server thread/INFO]: BRIKEUH issued server command: /home home
-[00:12:30] [Server thread/INFO]: BRIKEUH issued server command: /home forest
-[00:12:33] [Server thread/INFO]: DrMonkeyifyed issued server command: /sethome plain
-[00:12:36] [Server thread/INFO]: DrMonkeyifyed issued server command: /home plain
-[00:12:38] [Server thread/INFO]: BRIKEUH issued server command: /delhome forest
-[00:12:44] [Server thread/INFO]: BRIKEUH issued server command: /delhome home
-[00:12:45] [Server thread/INFO]: DrMonkeyifyed issued server command: /delhome plain
-[00:12:47] [Server thread/INFO]: BRIKEUH issued server command: /homes
-[00:12:50] [Server thread/INFO]: BRIKEUH issued server command: /home
-[00:12:52] [Server thread/INFO]: BRIKEUH issued server command: /home
-[00:12:56] [Server thread/INFO]: BRIKEUH issued server command: /home
-[00:13:17] [Server thread/INFO]: BRIKEUH issued server command: /dynmap
-[00:13:17] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'dynmap' in plugin dynmap v2.5-Dev201706100405
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:148) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:690) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PlayerConnection.handleCommand(PlayerConnection.java:1606) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1460) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(SourceFile:36) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(SourceFile:9) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:876) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:869) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:853) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:793) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
-Caused by: java.lang.NullPointerException
-	at org.dynmap.bukkit.DynmapPlugin.onCommand(DynmapPlugin.java:937) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	... 17 more
-[00:13:30] [Server thread/INFO]: BRIKEUH issued server command: /dynmap BRIKEUH
-[00:13:31] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'dynmap' in plugin dynmap v2.5-Dev201706100405
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:148) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:690) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PlayerConnection.handleCommand(PlayerConnection.java:1606) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1460) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(SourceFile:36) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(SourceFile:9) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:876) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:869) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:852) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:793) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
-Caused by: java.lang.NullPointerException
-	at org.dynmap.bukkit.DynmapPlugin.onCommand(DynmapPlugin.java:937) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	... 17 more
-[00:13:44] [Server thread/INFO]: BRIKEUH issued server command: /dynmap:dmap
-[00:13:44] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'dynmap:dmap' in plugin dynmap v2.5-Dev201706100405
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:148) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:690) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PlayerConnection.handleCommand(PlayerConnection.java:1606) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1460) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(SourceFile:36) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PacketPlayInChat.a(SourceFile:9) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.TickTask.run(SourceFile:18) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:876) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:869) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:852) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:793) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
-Caused by: java.lang.NullPointerException
-	at org.dynmap.bukkit.DynmapPlugin.onCommand(DynmapPlugin.java:937) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	... 17 more
-[00:14:47] [Server thread/INFO]: DrMonkeyifyed lost connection: Disconnected
-[00:14:47] [Server thread/INFO]: DrMonkeyifyed left the game
-[00:14:50] [Server thread/INFO]: Stopping the server
-[00:14:50] [Server thread/INFO]: Stopping server
-[00:14:50] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v1.15.0
-[00:14:50] [Server thread/INFO]: [VeinMiner] Clearing localized data
-[00:14:50] [Server thread/INFO]: [AdvancedAchievements] Disabling AdvancedAchievements v5.15.1
-[00:14:50] [Server thread/INFO]: [AdvancedAchievements] Remaining requests sent to the database, plugin successfully disabled.
-[00:14:50] [Server thread/INFO]: [DeadChest] Disabling DeadChest v3.1
-[00:14:50] [Server thread/INFO]: [Bssentials] Disabling Bssentials v3.0-b28
-[00:14:50] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.3.4-Release
-[00:14:51] [Server thread/INFO]: Minepacks-Connection-Pool - Shutdown initiated...
-[00:14:51] [Server thread/INFO]: Minepacks-Connection-Pool - Shutdown completed.
-[00:14:51] [Server thread/INFO]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
-[00:14:51] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.36
-[00:14:51] [Server thread/INFO]: [1m[33m**************************************[0m
-[00:14:51] [Server thread/INFO]: [1m[32mSinglePlayerSleep v1.13_2.13.36[0m is [1mDISABLED[0m
-[00:14:51] [Server thread/INFO]: [1m[33m**************************************[0m
-[00:14:51] [Server thread/INFO]: [Timber] Disabling Timber v1.0.7
-[00:14:51] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
-[00:14:51] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[00:14:51] [Server thread/INFO]: [dynmap] Disabling dynmap v2.5-Dev201706100405
-[00:14:51] [Server thread/ERROR]: Error occurred while disabling dynmap v2.5-Dev201706100405 (Is it up to date?)
-java.lang.NullPointerException: null
-	at org.dynmap.bukkit.DynmapPlugin.onDisable(DynmapPlugin.java:902) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:369) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:437) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:429) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.disablePlugins(CraftServer.java:391) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.stop(MinecraftServer.java:690) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.DedicatedServer.stop(DedicatedServer.java:674) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:823) [craftbukkit-1.15.2.jar:git-Bukkit-8160e29]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
-[00:14:51] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.1.6
-[00:14:51] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[00:14:51] [Server thread/INFO]: Saving players
-[00:14:51] [Server thread/INFO]: BRIKEUH lost connection: Server closed
-[00:14:51] [Server thread/INFO]: BRIKEUH left the game
-[00:14:51] [Server thread/INFO]: Saving worlds
-[00:14:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:14:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:14:52] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[00:14:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:14:53] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[00:14:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:14:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:14:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:14:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:55:34] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:55:34] [Server thread/INFO]: Loading properties
+[13:55:34] [Server thread/INFO]: Default game type: SURVIVAL
+[13:55:34] [Server thread/INFO]: Generating keypair
+[13:55:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:55:34] [Server thread/INFO]: Using default channel type
+[13:55:35] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[13:55:37] [Server thread/WARN]: Plugin Bssentials v3.0-b28 does not specify an api-version.
+[13:55:37] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[13:55:38] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@df4d9d1]
+[13:55:38] [Server thread/INFO]: [Timber] Loading Timber v1.0.7
+[13:55:38] [Server thread/INFO]: [SinglePlayerSleep] Loading SinglePlayerSleep v1.13_2.13.36
+[13:55:38] [Server thread/INFO]: [Minepacks] Loading Minepacks v2.3.4-Release
+[13:55:38] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[13:55:38] [Server thread/INFO]: [Bssentials] Loading Bssentials v3.0-b28
+[13:55:38] [Server thread/INFO]: [DeadChest] Loading DeadChest v3.1
+[13:55:38] [Server thread/INFO]: [AdvancedAchievements] Loading AdvancedAchievements v5.15.1
+[13:55:38] [Server thread/INFO]: [VeinMiner] Loading VeinMiner v1.15.0
+[13:55:38] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[13:55:38] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:55:38] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[13:55:39] [Server thread/WARN]: [WorldEdit] ====================================================
+[13:55:39] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[13:55:39] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[13:55:39] [Server thread/WARN]: [WorldEdit]   
+[13:55:39] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[13:55:39] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[13:55:39] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[13:55:39] [Server thread/WARN]: [WorldEdit]   
+[13:55:39] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[13:55:39] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[13:55:39] [Server thread/WARN]: [WorldEdit]   
+[13:55:39] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[13:55:39] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[13:55:39] [Server thread/WARN]: [WorldEdit]   
+[13:55:39] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[13:55:39] [Server thread/WARN]: [WorldEdit] ====================================================
+[13:55:39] [Server thread/INFO]: Preparing level "world"
+[13:55:39] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[13:55:40] [Server thread/INFO]: Loaded 6 recipes
+[13:55:40] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[13:55:40] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[13:55:41] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:41] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:41] [Server thread/INFO]: Time elapsed: 875 ms
+[13:55:41] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[13:55:41] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:41] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[13:55:42] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[13:55:42] [Server-Worker-6/INFO]: Preparing spawn area: 87%
+[13:55:43] [Server thread/INFO]: Time elapsed: 1904 ms
+[13:55:43] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[13:55:43] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:43] [Server-Worker-7/INFO]: Preparing spawn area: 92%
+[13:55:43] [Server thread/INFO]: Time elapsed: 557 ms
+[13:55:43] [Server thread/INFO]: [Timber] Enabling Timber v1.0.7
+[13:55:43] [Server thread/INFO]: Timber Log Materials: [JUNGLE_LOG, BIRCH_LOG, ACACIA_LOG, DARK_OAK_LOG, SPRUCE_LOG, OAK_LOG]
+[13:55:43] [Server thread/INFO]: Timber Axe Materials: [DIAMOND_AXE, IRON_AXE, GOLDEN_AXE, STONE_AXE, WOODEN_AXE]
+[13:55:43] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.36
+[13:55:43] [Server thread/INFO]: [1m[33m**************************************[0m
+[13:55:43] [Server thread/INFO]: [1m[32mSinglePlayerSleep v1.13_2.13.36[0m Loading...
+[13:55:43] [Server thread/INFO]: [1m[33mSinglePlayerSleep 1.13_2.13.36[0m Updating lang files! copied cs_CZ.yml, de_DE.yml, en_US.yml, es_MX.yml, fr_FR.yml, lol_US.yml, nl_NL.yml, pt_BR.yml, and zh_TW.yml to plugins\SinglePlayerSleep\lang[0m
+[13:55:43] [Server thread/INFO]: [1m[33mSinglePlayerSleep 1.13_2.13.36[0m plugins\SinglePlayerSleep\config.yml[0m
+[13:55:43] [Server thread/INFO]: Checking for updates...[m
+[13:55:44] [Server thread/INFO]: [1m[33m**************************************[0m
+[13:55:44] [Server thread/INFO]: [1m[32mSinglePlayerSleep v1.13_2.13.36[0m is [1mENABLED[0m
+[13:55:44] [Server thread/INFO]: [1m[33m**************************************[0m
+[13:55:44] [Server thread/INFO]: [1m[33mSinglePlayerSleep 1.13_2.13.36[0m MC vgit-Bukkit-8160e29 (MC: 1.15.2) debug=false in plugins\SinglePlayerSleep/config.yml[0m
+[13:55:44] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.3.4-Release
+[13:55:44] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[13:55:44] [Server thread/INFO]: [Minepacks] [32mConfig file successfully loaded.[0m
+[13:55:44] [Server thread/INFO]: [Minepacks] [32mLanguage file successfully loaded. Language: english  Author: GeorgH93[0m
+[13:55:44] [Server thread/INFO]: Minepacks-Connection-Pool - Starting...
+[13:55:44] [Server thread/INFO]: Minepacks-Connection-Pool - Start completed.
+[13:55:45] [Server thread/INFO]: [Minepacks] [32mItem name language file successfully loaded. Language: english  Author: GeorgH93[0m
+[13:55:45] [Server thread/INFO]: [Minepacks] Loading item translations ...
+[13:55:45] [Server thread/INFO]: [Minepacks] Finished loading item translations for 830 items.
+[13:55:45] [Server thread/INFO]: [Minepacks] [32m Minepacks has been enabled! [33m :) [0m
+[13:55:45] [Server thread/INFO]: [Bssentials] Enabling Bssentials v3.0-b28
+[13:55:45] [Server thread/WARN]: [Bssentials] Could not save info.txt to plugins\Bssentials\info.txt because info.txt already exists.
+[13:55:45] [Server thread/WARN]: [Bssentials] Could not save motd.txt to plugins\Bssentials\motd.txt because motd.txt already exists.
+[13:55:45] [Server thread/WARN]: [Bssentials] Could not save rules.txt to plugins\Bssentials\rules.txt because rules.txt already exists.
+[13:55:45] [Server thread/INFO]: [Bssentials] Loading configuration...
+[13:55:45] [Server thread/INFO]: [Bssentials] Registering commands...
+[13:55:45] [Server thread/INFO]: [Bssentials] Registered 38 commands
+[13:55:45] [Server thread/INFO]: [DeadChest] Enabling DeadChest v3.1
+[13:55:45] [Server thread/INFO]: [AdvancedAchievements] Enabling AdvancedAchievements v5.15.1
+[13:55:45] [Server thread/INFO]: [AdvancedAchievements] Loading and backing up configuration files...
+[13:55:45] [Server thread/WARN]: [AdvancedAchievements] Overriding configuration: disabling PetMasterGive and PetMasterReceive categories.
+[13:55:45] [Server thread/WARN]: [AdvancedAchievements] Ensure you have placed Pet Master with a minimum version of 1.4 in your plugins folder or add PetMasterGive and PetMasterReceive to the DisabledCategories list in config.yml.
+[13:55:45] [Server thread/INFO]: [AdvancedAchievements] Loaded 58 achievements in 48 categories.
+[13:55:45] [Server thread/INFO]: [AdvancedAchievements] 3 disabled categories: [PetMasterGive, AdvancementsCompleted, PetMasterReceive]
+[13:55:45] [Server thread/INFO]: [AdvancedAchievements] Registering event listeners...
+[13:55:45] [Server thread/INFO]: [AdvancedAchievements] Initialising database...
+[13:55:45] [Server thread/INFO]: [AdvancedAchievements] Setting up command executor and custom tab completers...
+[13:55:45] [Server thread/INFO]: [AdvancedAchievements] Launching scheduled tasks...
+[13:55:45] [Server thread/INFO]: [AdvancedAchievements] Registering permissions...
+[13:55:45] [Thread-15/INFO]: [AdvancedAchievements] Checking for plugin update...
+[13:55:47] [Server thread/INFO]: [AdvancedAchievements] Plugin has finished loading and is ready to run! Took 1848ms.
+[13:55:47] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v1.15.0
+[13:55:47] [Server thread/INFO]: [VeinMiner] Registering events
+[13:55:47] [Server thread/INFO]: [VeinMiner] Registering commands
+[13:55:47] [Server thread/INFO]: [VeinMiner] Vault not found. Economy support suspended
+[13:55:47] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[13:55:47] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[13:55:47] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[13:55:47] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[13:55:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:55:47] [Server thread/INFO]: Done (7.321s)! For help, type "help"
+[13:55:47] [Server thread/INFO]: [Bssentials]  __   __   __   ___      ___              __  
+[13:55:47] [Server thread/INFO]: [Bssentials] |__) /__` /__` |__  |\ |  |  |  /\  |    /__` 
+[13:55:47] [Server thread/INFO]: [Bssentials] |__) .__/ .__/ |___ | \|  |  | /~~\ |___ .__/ 
+[13:55:47] [Server thread/INFO]: [Bssentials]                                                 
+[13:55:47] [Server thread/INFO]: [Bssentials] Version 3.0-b28
+[13:55:47] [Server thread/WARN]: [Bssentials] The EssentialsBridge plugin is not installed! Plugins that requrire the EssAPI will not function with Bssentials without this bridge, (ex ChestShop, Vault, etc)
+[13:55:47] [Server thread/INFO]: [Bssentials] https://dev.bukkit.org/projects/essentialsapibridge
+[13:55:47] [ForkJoinPool.commonPool-worker-9/INFO]: [VeinMiner] Your version of VeinMiner (1.15.0) is up to date!
+[13:55:56] [User Authenticator #1/INFO]: UUID of player DrMonkeyifyed is 8cbd3a4b-1df6-440a-8d5a-3632c1643299
+[13:55:58] [Server thread/INFO]: DrMonkeyifyed[/192.168.1.1:53381] logged in with entity id 149 at ([world]-228.08545573993166, 102.0, 249.73101583759438)
+[13:56:15] [User Authenticator #2/INFO]: UUID of player BRIKEUH is 672c2621-eb8b-419b-a43c-6e178313a19a
+[13:56:15] [Server thread/INFO]: BRIKEUH[/108.185.7.252:53260] logged in with entity id 236 at ([world]-214.6273761727562, 123.0, 229.40257241691884)
+[13:59:08] [Server thread/INFO]: [AdvancedAchievements] Player DrMonkeyifyed received the achievement: waterbuckets_15 (Fireman)
+[13:59:44] [Server thread/INFO]: BRIKEUH issued server command: /gamemode spectator
+[14:00:03] [Server thread/INFO]: DrMonkeyifyed issued server command: /home bns
+[14:02:30] [Server thread/INFO]: BRIKEUH issued server command: /gamemode s
+[14:03:34] [Server thread/INFO]: Stopping the server
+[14:03:34] [Server thread/INFO]: Stopping server
+[14:03:34] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v1.15.0
+[14:03:34] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[14:03:34] [Server thread/INFO]: [AdvancedAchievements] Disabling AdvancedAchievements v5.15.1
+[14:03:34] [Server thread/INFO]: [AdvancedAchievements] Remaining requests sent to the database, plugin successfully disabled.
+[14:03:34] [Server thread/INFO]: [DeadChest] Disabling DeadChest v3.1
+[14:03:34] [Server thread/INFO]: [Bssentials] Disabling Bssentials v3.0-b28
+[14:03:34] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.3.4-Release
+[14:03:35] [Server thread/INFO]: Minepacks-Connection-Pool - Shutdown initiated...
+[14:03:35] [Server thread/INFO]: Minepacks-Connection-Pool - Shutdown completed.
+[14:03:35] [Server thread/INFO]: [Minepacks] [31m Minepacks has been disabled. [33m :( [0m
+[14:03:35] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.36
+[14:03:35] [Server thread/INFO]: [1m[33m**************************************[0m
+[14:03:35] [Server thread/INFO]: [1m[32mSinglePlayerSleep v1.13_2.13.36[0m is [1mDISABLED[0m
+[14:03:35] [Server thread/INFO]: [1m[33m**************************************[0m
+[14:03:35] [Server thread/INFO]: [Timber] Disabling Timber v1.0.7
+[14:03:35] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[14:03:35] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[14:03:35] [Server thread/INFO]: Saving players
+[14:03:35] [Server thread/INFO]: DrMonkeyifyed lost connection: Server closed
+[14:03:35] [Server thread/INFO]: DrMonkeyifyed left the game
+[14:03:35] [Server thread/INFO]: BRIKEUH lost connection: Server closed
+[14:03:35] [Server thread/INFO]: BRIKEUH left the game
+[14:03:35] [Server thread/INFO]: Saving worlds
+[14:03:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[14:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:03:36] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[14:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:03:36] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[14:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:03:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

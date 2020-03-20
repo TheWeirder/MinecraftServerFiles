@@ -1,4 +1,14 @@
 npc: false
 lastAccountName: BRIKEUH
 money: 100.0
-homes: {}
+homes:
+  shaq:
+    world: world
+    x: -193.2341033013004
+    y: 126.0
+    z: 230.1495908140436
+  village1:
+    world: world
+    x: -345.1686231139254
+    y: 62.9375
+    z: 216.69651293945105
