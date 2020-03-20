@@ -184,3 +184,10 @@ java.io.IOException: The handle is invalid
 [20:43:03] [Server-Worker-2/INFO]: Preparing spawn area: 99%
 [20:43:03] [Server thread/INFO]: Time elapsed: 15298 ms
 [20:43:03] [Server thread/INFO]: Done (85.244s)! For help, type "help"
+[20:44:03] [Server Watchdog/FATAL]: A single server tick took 60.03 seconds (should be max 0.05)
+[20:44:03] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[20:44:03] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\russe\OneDrive\Desktop\MinecraftServerFiles\.\crash-reports\crash-2020-03-19_20.44.03-server.txt
+[20:44:03] [Thread-2/INFO]: Stopping server
+[20:44:03] [Thread-2/INFO]: Saving players
+[20:44:04] [Thread-2/INFO]: Saving worlds
+[20:44:04] [Thread-2/INFO]: Saving chunks for level 'world'/minecraft:overworld
